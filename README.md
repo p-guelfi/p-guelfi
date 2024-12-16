@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m a Junior Full-Stack Web Developer with a strong background in communications and project management. I have hands-on experience in building scalable, user-friendly applications using Ruby on Rails, JavaScript, HTML, and CSS.<br><br>Currently, I’m exploring new technologies like React, Python, and AI development, with a focus on solving problems and creating impactful digital solutions.<br><br>Feel free to check out my repositories or get in touch!<br><br>
+Hi there! I’m a Junior Full-Stack Web Developer with a strong background in communications and project management. I have hands-on experience in building scalable, user-friendly applications using Ruby on Rails, JavaScript, HTML, and CSS.<br><br>Currently, I’m exploring new technologies like React and AI development, with a focus on solving problems and creating impactful digital solutions.<br><br>Feel free to check out my repositories or get in touch!<br><br>
 
 
 ## 🌐 Socials:
